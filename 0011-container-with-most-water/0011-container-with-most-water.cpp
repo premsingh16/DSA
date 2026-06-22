@@ -5,14 +5,16 @@ public:
         int left = 0;
         int right = n-1;
         int ans = 0;
-        while(left < right){
-            int ht = min(height[left],height[right]);
+        while(left<right){
             int width = right - left;
-            int curr = width * ht;
-            ans = max(ans , curr);
+            int ht = min(height[left], height[right]);
+            int area = width * ht;
+            ans = max(ans , area);
             if(height[left] < height[right]) left++;
             else right--;
         }
-        return ans;  
+        return ans;
+
+        
     }
 };
