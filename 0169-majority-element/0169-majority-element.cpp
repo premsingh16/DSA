@@ -1,6 +1,7 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
+        //(hashmap approach)
         int n = nums.size();
         unordered_map<int,int>mpp;
         for(auto x : nums) mpp[x]++;
