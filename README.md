@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/premsingh16/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/premsingh16/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/premsingh16/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0724-find-pivot-index](https://github.com/premsingh16/DSA/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/premsingh16/DSA/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/premsingh16/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/premsingh16/DSA/tree/master/1929-concatenation-of-array) |
@@ -88,5 +89,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/premsingh16/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/premsingh16/DSA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
