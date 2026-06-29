@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/premsingh16/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/premsingh16/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/premsingh16/DSA/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/premsingh16/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/premsingh16/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/premsingh16/DSA/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/premsingh16/DSA/tree/master/0912-sort-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/premsingh16/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/premsingh16/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/premsingh16/DSA/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/premsingh16/DSA/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/premsingh16/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
