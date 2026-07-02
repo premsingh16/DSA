@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/premsingh16/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/premsingh16/DSA/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/premsingh16/DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/premsingh16/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/premsingh16/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/premsingh16/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/premsingh16/DSA/tree/master/0347-top-k-frequent-elements) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/premsingh16/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
