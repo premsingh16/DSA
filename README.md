@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/premsingh16/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/premsingh16/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/premsingh16/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/premsingh16/DSA/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/premsingh16/DSA/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/premsingh16/DSA/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/premsingh16/DSA/tree/master/0912-sort-an-array) |
