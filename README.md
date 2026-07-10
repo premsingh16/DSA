@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/premsingh16/DSA/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/premsingh16/DSA/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/premsingh16/DSA/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/premsingh16/DSA/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/premsingh16/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/premsingh16/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/premsingh16/DSA/tree/master/1732-find-the-highest-altitude) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/premsingh16/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/premsingh16/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/premsingh16/DSA/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/premsingh16/DSA/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/premsingh16/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/premsingh16/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/premsingh16/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/premsingh16/DSA/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/premsingh16/DSA/tree/master/1051-height-checker) |
 ## Two Pointers
 |  |
 | ------- |
