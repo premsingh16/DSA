@@ -6,12 +6,8 @@ public:
         for(char ch: magazine){
             mpp[ch]++;
         }
-
        for(char ch :ransomNote){
-            auto it = mpp.find(ch);
-            if( it != mpp.end() && it->second > 0){
-                it->second--;
-            }
+           if(mpp[ch] > 0) mpp[ch]--;
             else return false;
        }
         return true;
