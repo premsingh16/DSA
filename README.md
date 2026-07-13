@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/premsingh16/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/premsingh16/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/premsingh16/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/premsingh16/DSA/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/premsingh16/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/premsingh16/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/premsingh16/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/premsingh16/DSA/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/premsingh16/DSA/tree/master/0383-ransom-note) |
 | [0680-valid-palindrome-ii](https://github.com/premsingh16/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Divide and Conquer
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/premsingh16/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/premsingh16/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/premsingh16/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/premsingh16/DSA/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/premsingh16/DSA/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/premsingh16/DSA/tree/master/1051-height-checker) |
 ## Two Pointers
