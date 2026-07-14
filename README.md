@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/premsingh16/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/premsingh16/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/premsingh16/DSA/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/premsingh16/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/premsingh16/DSA/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/premsingh16/DSA/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/premsingh16/DSA/tree/master/0912-sort-an-array) |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/premsingh16/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/premsingh16/DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
