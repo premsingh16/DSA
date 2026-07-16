@@ -8,12 +8,12 @@ public:
         int maxLength = INT_MIN;
         for(int right = 0; right < n; right++){
             int a = s[right];
-            if(st.find(a) != st.end()){
+          
                 while(left < right && st.find(a) != st.end()){
                     st.erase(s[left]); 
                     left++;
                 }
-            }
+            
             st.insert(a);
             maxLength = max(maxLength , right - left + 1);
         }
