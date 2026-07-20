@@ -17,7 +17,7 @@ public:
                     s++;
                     e--;
                 }
-                else if(sum < 0) s++;
+                else if(sum < 0)s++;
                 else e--;
             }
         }
