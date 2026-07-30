@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/premsingh16/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/premsingh16/DSA/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/premsingh16/DSA/tree/master/0896-monotonic-array) |
+| [0904-fruit-into-baskets](https://github.com/premsingh16/DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/premsingh16/DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/premsingh16/DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/premsingh16/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/premsingh16/DSA/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/premsingh16/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/premsingh16/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0904-fruit-into-baskets](https://github.com/premsingh16/DSA/tree/master/0904-fruit-into-baskets) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/premsingh16/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/premsingh16/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/premsingh16/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/premsingh16/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/premsingh16/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/premsingh16/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/premsingh16/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/premsingh16/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
