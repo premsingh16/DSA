@@ -17,7 +17,6 @@ public:
         int rh = minDepth(root->right);
         if(lh == 0) return 1 + rh;
         if(rh == 0) return 1 + lh;
-        if(lh == 0 && rh == 0) return 1;
         return 1 + min(lh , rh);
     }
 };
