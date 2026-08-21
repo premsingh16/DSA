@@ -167,11 +167,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/premsingh16/DSA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/premsingh16/DSA/tree/master/0202-happy-number) |
 | [2235-add-two-integers](https://github.com/premsingh16/DSA/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/premsingh16/DSA/tree/master/0069-sqrtx) |
 | [1004-max-consecutive-ones-iii](https://github.com/premsingh16/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/premsingh16/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sliding Window
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/premsingh16/DSA/tree/master/0200-number-of-islands) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/premsingh16/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
