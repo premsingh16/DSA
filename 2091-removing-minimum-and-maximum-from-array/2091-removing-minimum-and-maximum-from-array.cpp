@@ -43,22 +43,18 @@ public:
         // One from front, one from back
         int len1 = 0;
         for (int i = 0; i < n; i++) {
-            if (nums[i] == maxEl || nums[i] == minEl)
-                break;
-
             len1++;
+            if (nums[i] == maxEl || nums[i] == minEl) break;   
         }
 
         int len2 = 0;
         for (int i = n - 1; i >= 0; i--) {
-            if (nums[i] == maxEl || nums[i] == minEl)
-                break;
-
             len2++;
+            if (nums[i] == maxEl || nums[i] == minEl) break;   
         }
         // +2 because the min/max elements themselves
         // also need to be deleted
-        int length3 = len1 + len2 + 2;
+        int length3 = len1 + len2 ;
         return min({length, length2, length3});
     }
 };
