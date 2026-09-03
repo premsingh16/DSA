@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/premsingh16/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/premsingh16/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/premsingh16/DSA/tree/master/0485-max-consecutive-ones) |
+| [0542-01-matrix](https://github.com/premsingh16/DSA/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/premsingh16/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/premsingh16/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/premsingh16/DSA/tree/master/0733-flood-fill) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/premsingh16/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/premsingh16/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0542-01-matrix](https://github.com/premsingh16/DSA/tree/master/0542-01-matrix) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/premsingh16/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/premsingh16/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/premsingh16/DSA/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/premsingh16/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/premsingh16/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/premsingh16/DSA/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/premsingh16/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/premsingh16/DSA/tree/master/0733-flood-fill) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/premsingh16/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/premsingh16/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/premsingh16/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/premsingh16/DSA/tree/master/0994-rotting-oranges) |
 ## Newton's Method
