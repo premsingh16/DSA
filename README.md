@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/premsingh16/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/premsingh16/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/premsingh16/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/premsingh16/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/premsingh16/DSA/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/premsingh16/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/premsingh16/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/premsingh16/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/premsingh16/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/premsingh16/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/premsingh16/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/premsingh16/DSA/tree/master/0389-find-the-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/premsingh16/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/premsingh16/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/premsingh16/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/premsingh16/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/premsingh16/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/premsingh16/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/premsingh16/DSA/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/premsingh16/DSA/tree/master/1051-height-checker) |
 ## Two Pointers
@@ -289,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/premsingh16/DSA/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/premsingh16/DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/premsingh16/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
