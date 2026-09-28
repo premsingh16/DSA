@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/premsingh16/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/premsingh16/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/premsingh16/DSA/tree/master/0389-find-the-difference) |
+| [0443-string-compression](https://github.com/premsingh16/DSA/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/premsingh16/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/premsingh16/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/premsingh16/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/premsingh16/DSA/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/premsingh16/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/premsingh16/DSA/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/premsingh16/DSA/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/premsingh16/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/premsingh16/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/premsingh16/DSA/tree/master/0905-sort-array-by-parity) |
