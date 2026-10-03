@@ -3,22 +3,27 @@ public:
     int compress(vector<char>& chars) {
         int n = chars.size();
         int idx = 0;
-        for(int i  = 0; i<n; i++){
+        for(int i = 0; i<n; i++){
             char ch = chars[i];
             int cnt = 0;
-            while(i < n && chars[i] == ch){
+            while(i<n && chars[i] == ch){
                 cnt++;
                 i++;
             }
-            if(cnt == 1) chars[idx++] = ch;
+            if(cnt == 1){
+                chars[idx] = ch;
+                idx++;
+            }
             else{
-                chars[idx++] = ch;
+                chars[idx] = ch;
+                idx++;
                 string str = to_string(cnt);
-                for(char dig: str){
-                    chars[idx++] = dig;
+                for(char dig : str){
+                    chars[idx] = dig;
+                    idx++;
                 }
             }
-            i--;
+            i--;    
         }
         chars.resize(idx);
         return idx;
