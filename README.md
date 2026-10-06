@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/premsingh16/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/premsingh16/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/premsingh16/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/premsingh16/DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Simulation
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/premsingh16/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/premsingh16/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/premsingh16/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/premsingh16/DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/premsingh16/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/premsingh16/DSA/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/premsingh16/DSA/tree/master/1051-height-checker) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/premsingh16/DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Two Pointers
 |  |
 | ------- |
