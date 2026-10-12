@@ -14,7 +14,6 @@ public:
             counter[ch-'a']++;
         }
         
-        vector<int>ans;
         int k = s1.size();
         int left = 0;
         for(int right = 0; right < n; right++){
