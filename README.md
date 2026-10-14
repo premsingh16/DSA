@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/premsingh16/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/premsingh16/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/premsingh16/DSA/tree/master/1768-merge-strings-alternately) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/premsingh16/DSA/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/premsingh16/DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Divide and Conquer
 |  |
