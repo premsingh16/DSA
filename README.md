@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/premsingh16/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/premsingh16/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/premsingh16/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/premsingh16/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/premsingh16/DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/premsingh16/DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/premsingh16/DSA/tree/master/0217-contains-duplicate) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/premsingh16/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/premsingh16/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/premsingh16/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/premsingh16/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/premsingh16/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/premsingh16/DSA/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/premsingh16/DSA/tree/master/0443-string-compression) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/premsingh16/DSA/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/premsingh16/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/premsingh16/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/premsingh16/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sliding Window
