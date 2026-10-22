@@ -9,10 +9,10 @@ public:
             leftMul *= nums[i];
         }
         int rightMul = 1;
-        for(int i = n-1; i>= 0; i--){
+        for(int i =n-1; i>= 0; i--){
             ans[i] *= rightMul;
-            rightMul  *= nums[i];
+            rightMul *= nums[i];
         }
-        return ans;
+       return ans; 
     }
 };
