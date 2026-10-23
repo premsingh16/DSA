@@ -5,7 +5,7 @@ public:
         int left = 0;
         int right = n-1;
         int ans = 0;
-        while(left<right){
+        while(left < right){
             int ht = min(height[left], height[right]);
             int width = right - left;
             int curr = ht * width;
