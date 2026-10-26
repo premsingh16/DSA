@@ -352,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/premsingh16/DSA/tree/master/0020-valid-parentheses) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/premsingh16/DSA/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
